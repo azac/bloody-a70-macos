@@ -1,0 +1,4 @@
+rumps
+pyusb
+pyobjc-framework-Cocoa
+py2app
